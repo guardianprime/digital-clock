@@ -6,8 +6,7 @@ body {
   align-items: center;
   height: 100vh;
   justify-content: center;
-  background-color: aquamarine;
-  background-image: url(https://unsplash.com/photos/landscape-photography-of-mountain-hit-by-sun-rays-78A265wPiO4);
+  background: cover url(https://www.pexels.com/photo/red-trees-1547813/);
 }
 
 h2 {
