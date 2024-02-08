@@ -6,7 +6,7 @@ body {
   align-items: center;
   height: 100vh;
   justify-content: center;
-  background: url("./images/northpole-landscape.jpg");
+  background-image: url("./images/northpole-landscape.jpg");
   background-size: cover;
   overflow: hidden;
 }
@@ -37,6 +37,7 @@ h2 {
   justify-content: center;
   align-items: center;
   font-size: 50px;
+  box-shadow: 2px 2px 4px rgba(94, 93, 93, 0.3);
   text-shadow: 2px 2px 4px rgba(94, 93, 93, 0.3);
 }
 
